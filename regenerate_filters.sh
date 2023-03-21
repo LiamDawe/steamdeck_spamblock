@@ -6,6 +6,7 @@ truncate -s 0 LIST
 while read -r hostname; do
  cat <<-EOF >> LIST
 bing.com###b_content a[href*="${hostname}"]:upward(li)
+bing.com##a.biglogo_link[href*="${hostname}"]:upward(6)
 duckduckgo.com##.tile-wrap a[href*="${hostname}"]:upward(.tile)
 duckduckgo.com##a[data-testid="result-title-a"][href*="${hostname}"]:upward(.nrn-react-div)
 html.duckduckgo.com##.results a.result__a[href*="${hostname}"]:upward(.result)
