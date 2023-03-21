@@ -11,6 +11,9 @@ duckduckgo.com##.tile-wrap a[href*="${hostname}"]:upward(.tile)
 duckduckgo.com##a[data-testid="result-title-a"][href*="${hostname}"]:upward(.nrn-react-div)
 html.duckduckgo.com##.results a.result__a[href*="${hostname}"]:upward(.result)
 lite.duckduckgo.com##.result-link[href*="${hostname}"]:upward(tr)
+lite.duckduckgo.com##.result-link[href*="${hostname}"]:upward(tr) + tr
+lite.duckduckgo.com##.result-link[href*="${hostname}"]:upward(tr) + tr + tr
+lite.duckduckgo.com##.result-link[href*="${hostname}"]:upward(tr) + tr + tr + tr
 search.brave.com###img-results a[href*="${hostname}"]:upward([id^="img"])
 search.brave.com###results a[href*="${hostname}"]:upward(.card)
 startpage.com##.image-container:has(div.image-quick-details span:has-text(${hostname}))
