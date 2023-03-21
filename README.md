@@ -18,3 +18,10 @@ There's also the [PLAIN_LIST](https://github.com/LiamDawe/steamdeck_spamblock/bl
 # What Search Engines Are Accepted?
 
 Any! As long as the rules added actually work, it can be accepted and added.
+
+Currently blocking on:
+* Google
+* DuckDuckGo
+* Brave
+* Bing
+* StartPage
