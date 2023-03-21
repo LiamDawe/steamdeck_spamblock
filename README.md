@@ -11,3 +11,7 @@ Why? With more and more sites chasing SEO (Search Engine Optimization), most sea
 # Contributing
 
 To have a site accepted in a pull request, please list examples of their spamminess.
+
+# What Search Engines Are Accepted?
+
+Any! As long as the rules added actually work, it can be accepted and added.
