@@ -6,8 +6,9 @@ Why? With more and more sites chasing SEO (Search Engine Optimization), most sea
 # How To Use
 
 * Go into Ublock Origin Settings
-* Paste from the [LIST](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/LIST) file into the "My filters" tab
-* Alternatively, in the "Filters" tab, select "Import" at the bottom and paste the raw github url to the LIST file: https://raw.githubusercontent.com/LiamDawe/steamdeck_spamblock/main/LIST, then click "Apply Changes". Using this method will allow Ublock Origin to fetch updates to the list without requiring you to paste in the entire file contents each time.
+* In the "Filters" tab, select "Import" at the bottom and paste the raw github url to the LIST file: https://raw.githubusercontent.com/LiamDawe/steamdeck_spamblock/main/LIST, then click "Apply Changes". Using this method will allow Ublock Origin to fetch updates to the list without requiring you to paste in the entire file contents each time.
+* Alternatively, paste from the [LIST](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/LIST) file into the "My filters" tab if you wish to customize it.
+
 
 There's also the [PLAIN_LIST](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/PLAIN_LIST) file just for the URLs if you wish to use it elsewhere.
 
