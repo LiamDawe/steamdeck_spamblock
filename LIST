@@ -103,3 +103,19 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(dotesp
 search.brave.com###results a[href*="dotesports.com"]:upward(.snippet)
 search.brave.com###img-results a[href*="dotesports.com"]:upward([id^="img"])
 search.brave.com###results a[href*="dotesports.com"]:upward(.card)
+bing.com###b_content a[href*="thedroidguy.com"]:upward(li)
+www.google.*##.g:has(a[href*="thedroidguy.com"])
+www.google.*##a[href*="thedroidguy.com"]:upward(1)
+duckduckgo.com##a[data-testid="result-title-a"][href*="thedroidguy.com"]:upward(.nrn-react-div)
+duckduckgo.com##.tile-wrap a[href*="thedroidguy.com"]:upward(.tile)
+html.duckduckgo.com##.results a.result__a[href*="thedroidguy.com"]:upward(.result)
+lite.duckduckgo.com##.result-link[href*="thedroidguy.com"]:upward(tr)
+lite.duckduckgo.com##.result-link[href*="thedroidguy.com"]:upward(tr) + tr
+lite.duckduckgo.com##.result-link[href*="thedroidguy.com"]:upward(tr) + tr + tr
+lite.duckduckgo.com##.result-link[href*="thedroidguy.com"]:upward(tr) + tr + tr + tr
+startpage.com##.w-gl__result:has(a[href*="thedroidguy.com"])
+startpage.com##.image-container:has(div.image-quick-details span:has-text(thedroidguy.com))
+search.brave.com###results a[href*="thedroidguy.com"]:upward(.snippet)
+search.brave.com###img-results a[href*="thedroidguy.com"]:upward([id^="img"])
+search.brave.com###results a[href*="thedroidguy.com"]:upward(.card)
+
