@@ -15,6 +15,7 @@ There's also the [PLAIN_LIST](https://github.com/LiamDawe/steamdeck_spamblock/bl
 
 * To have a site accepted in a pull request, please list examples of their spamminess.
 * Please add the site to the PLAIN_LIST as well in your PR.
+* If able, please run the `./regenerate_filters.sh` script to update the LIST file with filters for the newly added site.
 
 # What Search Engines Are Accepted?
 
