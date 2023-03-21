@@ -8,6 +8,8 @@ Why? With more and more sites chasing SEO (Search Engine Optimization), most sea
 * Go into Ublock Origin Settings
 * Paste from the [LIST](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/LIST) file into the "My filters" tab
 
+There's also the [PLAIN_LIST](https://github.com/LiamDawe/steamdeck_spamblock/blob/main/PLAIN_LIST) file just for the URLs if you wish to use it elsewhere.
+
 # Contributing
 
 To have a site accepted in a pull request, please list examples of their spamminess.
