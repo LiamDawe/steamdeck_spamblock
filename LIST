@@ -28,6 +28,21 @@ startpage.com##.image-container:has(div.image-quick-details span:has-text(beebom
 startpage.com##.w-gl__result:has(a[href*="beebom.com"])
 www.google.*##.g:has(a[href*="beebom.com"])
 www.google.*##a[href*="beebom.com"]:upward(1)
+bing.com###b_content a[href*="charlieintel.com"]:upward(li)
+bing.com##a.biglogo_link[href*="charlieintel.com"]:upward(6)
+duckduckgo.com##.tile-wrap a[href*="charlieintel.com"]:upward(.tile)
+duckduckgo.com##a[data-testid="result-title-a"][href*="charlieintel.com"]:upward(.nrn-react-div)
+html.duckduckgo.com##.results a.result__a[href*="charlieintel.com"]:upward(.result)
+lite.duckduckgo.com##.result-link[href*="charlieintel.com"]:upward(tr)
+lite.duckduckgo.com##.result-link[href*="charlieintel.com"]:upward(tr) + tr
+lite.duckduckgo.com##.result-link[href*="charlieintel.com"]:upward(tr) + tr + tr
+lite.duckduckgo.com##.result-link[href*="charlieintel.com"]:upward(tr) + tr + tr + tr
+search.brave.com###img-results a[href*="charlieintel.com"]:upward([id^="img"])
+search.brave.com###results a[href*="charlieintel.com"]:upward(.card)
+startpage.com##.image-container:has(div.image-quick-details span:has-text(charlieintel.com))
+startpage.com##.w-gl__result:has(a[href*="charlieintel.com"])
+www.google.*##.g:has(a[href*="charlieintel.com"])
+www.google.*##a[href*="charlieintel.com"]:upward(1)
 bing.com###b_content a[href*="cbr.com"]:upward(li)
 bing.com##a.biglogo_link[href*="cbr.com"]:upward(6)
 duckduckgo.com##.tile-wrap a[href*="cbr.com"]:upward(.tile)
