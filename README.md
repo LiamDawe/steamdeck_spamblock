@@ -34,3 +34,7 @@ Currently blocking on:
 # What If I don't Agree On A Blocked Site?
 
 I'm open to suggestions, and you're free to fork / remove sites at your own pleasure. This was done for personal use, that I decided to share. You might not agree with some, but they're all added because they content-farm and SEO clickbait in some way.
+
+# Who am I?
+
+I run [GamingOnLinux](https://www.gamingonlinux.com) and got annoyed by SEO clickbait spam sites and other trash.
